@@ -7,35 +7,64 @@ navbar_entries:
 
 project_entries:
   - title: Three.JS Game Portfolio
-    url: overview-post
+    url: ThreeJS-Project
     desc: A unique and creative portfolio written in HTML, CSS, JavaScript, TypeScript, React, and R3F
     highlight: WIP
 
   - title: Lightweight Rust Interpreter
-    url: overview-post
+    url: Lightweight-Rust-Interpreter
     desc: An Interpreter for the Rust programming language written in Rust
     highlight: WIP
-  - title: Network Levelling for Minecraft
-    url: overview-post
-    desc: An Interpreter for the Rust programming language written in Rust
+
+  - title: Network Levelling System
+    url: Network-Levelling
+    desc: A Network Levelling system designed for Minecraft Networks
+
+  - title: Creative Raid Abilities
+    url: Creative-Raid-Abilities
+    desc: Raid Abilities using quadratic equations inspired by WOW, FFXIV, and other MMORGPS.
+
+  - title: Staff Moderation Utilities
+    url: Staff-Moderation-Tools
+    desc: Utilities to provide staff members with effective moderation tools
+
+  - title: Graph Algorithms Visualizer
+    url: Graph-Algorithm-Visualizer
+    desc: Provides visualization of graph algorithms, dijkstra's, prims, and more using Swing.
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites
-    highlight: NEW
+  - title: Spotify Music Advisor
+    url: https://github.com/qbb84/SpotifyMusicAdvisor
+    desc: Simple Music Advisor using Spotify API, HTTPs, and JSON
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Recipher
+    url: https://github.com/qbb84/Recipher
+    desc: Custom binary encryption and decryption
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Minecraft Free-For-All
+    url: https://github.com/qbb84/Minecraft_FFA_Gamemode
+    desc: A simple, and fun Free-For-All gamemode for Minecraft
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Competitive Code Catalog
+    url: https://github.com/qbb84/CompetitiveCatalog
+    desc: Guidance for Competitive Programming topics in C++, Python, and Java
+    highlight: DC
+
+  - title: Factions
+    url: https://github.com/qbb84/Factions
+    desc: A customizable plugin for Factions servers
+
+  - title: Custom Head Drops
+    url: https://github.com/qbb84/rareMobDrops/tree/master
+    desc: Custom rarity head drops with synchronized inventory updates for animation. Used by SMP servers
+
+  - title: Quick Tac Toe AI
+    url: https://github.com/qbb84/Quick-Tac-Toe-AI
+    desc: A quick and fun TicTacToe game with AI, utilizing algorithms like Minimax
+
+  - title: Staff Ranks
+    url: https://github.com/qbb84/StaffRanks
+    desc: A staff Ranks plugin with GUI staff management
 
 footer_entries:
   - title: github
