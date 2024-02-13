@@ -6,31 +6,18 @@ navbar_entries:
     url: BLOG
 
 project_entries:
-  - title: Project 1
+  - title: Three.JS Game Portfolio
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: A unique and creative portfolio written in HTML, CSS, JavaScript, TypeScript, React, and R3F
     highlight: WIP
 
-  - title: Project 5
+  - title: Lightweight Rust Interpreter
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: An Interpreter for the Rust programming language written in Rust
     highlight: WIP
-
-  - title: Project 6
+  - title: Network Levelling for Minecraft
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: An Interpreter for the Rust programming language written in Rust
 
 old_project_entries:
   - title: Soopr
@@ -67,21 +54,3 @@ misc_entries:
   - title: Blog posts
     post_list: true
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
