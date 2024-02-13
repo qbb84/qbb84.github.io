@@ -7,29 +7,29 @@ navbar_entries:
 
 project_entries:
   - title: Three.JS Game Portfolio
-    url: ThreeJS-Project
+    url: threejs-project
     desc: A unique and creative portfolio written in HTML, CSS, JavaScript, TypeScript, React, and R3F
     highlight: WIP
 
   - title: Lightweight Rust Interpreter
-    url: Lightweight-Rust-Interpreter
+    url: lightweight-rust-interpreter
     desc: An Interpreter for the Rust programming language written in Rust
     highlight: WIP
 
   - title: Network Levelling System
-    url: Network-Levelling
+    url: network-levelling
     desc: A Network Levelling system designed for Minecraft Networks
 
   - title: Creative Raid Abilities
-    url: Creative-Raid-Abilities
+    url: creative-raid-abilities
     desc: Raid Abilities using quadratic equations inspired by WOW, FFXIV, and other MMORGPS.
 
   - title: Staff Moderation Utilities
-    url: Staff-Moderation-Tools
+    url: staff-moderation-tools
     desc: Utilities to provide staff members with effective moderation tools
 
   - title: Graph Algorithms Visualizer
-    url: Graph-Algorithm-Visualizer
+    url: graph-algorithm-visualizer
     desc: Provides visualization of graph algorithms, dijkstra's, prims, and more using Swing.
 
 old_project_entries:
