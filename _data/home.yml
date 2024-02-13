@@ -1,9 +1,9 @@
 navbar_entries:
   - title: About
-    url: ABOUT
+    url: about
 
   - title: Blog
-    url: BLOG
+    url: blog
 
 project_entries:
   - title: Three.JS Game Portfolio
