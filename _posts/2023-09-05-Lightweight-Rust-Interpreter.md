@@ -12,7 +12,7 @@ lri is a project born out of a desire to deepen my understanding of the Rust pro
 
 An interpreter is a program that reads and executes code directly, without the need for a separate compilation step. It takes source code as input and interprets it on the fly, executing the instructions one at a time which can be useful for ease of development, portability, dynamic typing, and more.
 
-Some popular language which commonly use interpreters include:
+Some popular languages which commonly use interpreters include:
 
 - Python
 - Javascript

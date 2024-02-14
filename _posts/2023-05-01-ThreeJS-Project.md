@@ -58,7 +58,7 @@ export function Room(props: JSX.IntrinsicElements['group']) {
 
 ```
 
-This component was called inside my another component like this:
+This component was called inside another component like this:
 
 ```javascript
 export default function loading() {
@@ -76,7 +76,7 @@ export default function loading() {
 }
 ```
 
-The code above isn't correct, but why? Well, because the room is being set visible on every frame, which will cause strenuous load on the GPU and CPU - Imagine every time you walked downstairs, you ended up on top the stairs, after a while you're going to become tired, and as such, the website eventually will become unusable. Let's dive deeper.
+The code above isn't correct, but why? Well, because the room is being set visible on every frame, which will cause strenuous load on the GPU and CPU - Imagine every time you walked downstairs, you ended up on top of the stairs, after a while you're going to become tired, and as such, the website eventually will become unusable. Let's dive deeper.
 
 ## Utilizing Big O Notation
 
