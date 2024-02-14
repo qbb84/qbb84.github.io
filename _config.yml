@@ -4,7 +4,7 @@ url: https://qbb84.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   Driven by a peculiar fascination with patterns, I find myself at the intersection of creativity and code. Exploring the intricacies of algorithms and the artistry of design, I embark on a journey where patterns aren't just observed; they are woven into the fabric of my work.
 
-  <p style="font-size: 12px;"><i> Due to safety and contractual considerations, some of my work cannot be made public. If you have specific inquiries or would like to learn more about my work, please feel free to contact me directly.</p>
+  <p style="font-size: 12px;"><i> Please note: due to safety and contractual considerations, some of my work cannot be made public.</p>
 
 permalink: /:slug
 favicon: './logo.png' # relative path to site's favicon
