@@ -16,7 +16,7 @@ This was mainly used to assess closest cheaters as a last resort.
 
 ## Curated Responses
 
-I developed a curated response system for staff members, streamlining the process of answering queries efficiently. This innovative solution leverages Language Model APIs (LLMs) to generate concise and contextually relevant responses. An LLM, or Language Model, is a type of artificial intelligence that excels in understanding and generating human-like text. Specifically, GPT-2, one of the models in the GPT series, was utilized for this purpose.
+I developed a curated response system for staff members, streamlining the process of answering queries efficiently. This innovative solution leverages Language Model APIs (LLMs), and Natural Language Processing (NLP) to generate concise and contextually relevant responses. An LLM, or Language Model, is a type of artificial intelligence that excels in understanding and generating human-like text. Specifically, GPT-2, one of the models in the GPT series, was utilized for this purpose.
 
 With Spigot, I integrated the GPT-2 model to enhance communication capabilities. This allowed for dynamic and accurate responses in the Minecraft chat, enriching the overall user experience, and efficiency of staff members.
 
