@@ -7,7 +7,6 @@ description: > # description of the site (multiple lines allowed)
   <p style="font-size: 12px;"><i> Due to safety and contractual considerations, some of my work cannot be made public. If you have specific inquiries or would like to learn more about my work, please feel free to contact me directly.</p>
 
 permalink: /:slug
-
 favicon: './logo.png' # relative path to site's favicon
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
