@@ -24,7 +24,7 @@ Knowing this, I incorporated a few equations to calculate certain parameters rel
 
 ### Particle Effects
 
-This can be achieved using NMS, sending packets for more control. Here's what a basic packet of data relating to particle effects may looks like:
+This can be achieved using NMS (Net Minecraft Server), which is used to access the server code of Minecraft, allowing the sending of packets with bundled data for more control. Here's what a basic packet of data relating to particle effects might look like:
 
 ```java
 PacketPlayOutWorldParticles packet = new PacketPlayOutWorldParticles(particleType, true,
