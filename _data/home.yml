@@ -66,6 +66,11 @@ old_project_entries:
     url: https://github.com/qbb84/StaffRanks
     desc: A staff Ranks plugin with GUI staff management
 
+  - title: Brain Games
+    url: brain-games
+    desc: Bringing cognitive games into Minecraft
+    highlight: ACTIVE
+
 footer_entries:
   - title: github
     url: https://github.com/qbb84
