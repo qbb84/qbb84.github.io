@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Three.JS Game Portfolio
+  - title: Three.JS Game Project
     url: threejs-project
     desc: A unique and creative portfolio written in HTML, CSS, JavaScript, TypeScript, React, and R3F
     highlight: WIP
