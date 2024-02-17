@@ -13,6 +13,8 @@ A helper application made with Java, utilizing Swing, that helps users visualize
 3. New graph state
 4. Algorithms input, as well as built-in testing algorithms
 
+#### Early Development Footage
+
 <img src="/images/Picture1.png">
 
 You'll be able to access the repository, and download once I release the application <a href="https://github.com/qbb84/AlgorithmVisualizer"> here</a>.
