@@ -109,7 +109,6 @@ The following code snippets are provided for informational purposes and to illus
         }
         return moves;
     }
-
 ```
 
 ## The Bishop
@@ -244,3 +243,5 @@ If you got this far, congratulations! The idea behind bitboards is relatively si
 - A video visually explaining bitboards by Holistic3D <a href="https://youtu.be/MzfQ8H16n0M?si=FEtGqBc9qxAELrOG">here</a>
 
 - The chessprogramming.org wiki articles <a href="https://www.chessprogramming.org/Bitboards#General_Bitboard_Techniques"> here </a>
+
+<i> If you'd like to play a chess game against me, contact me! </i>
