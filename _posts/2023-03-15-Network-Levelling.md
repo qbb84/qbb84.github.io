@@ -118,4 +118,4 @@ HttpsURLConnection connection = (HttpsURLConnection) url.openConnection();
 - Over the years creation has become more trivial, but creating something that's meaningful requires a lot more dedication.
 - Research, and then research some more
 
-You can find a link to the repository <a href="https://github.com/qbb84/NetworkLevelling">here</a>
+You can find a link to my repository, containing fully documented code of a basic implementation, similar to how I've incorporated network levelling for servers in the past <a href="https://github.com/qbb84/NetworkLevelling">View Repo</a>
