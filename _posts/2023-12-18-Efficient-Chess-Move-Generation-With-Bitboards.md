@@ -244,4 +244,4 @@ If you got this far, congratulations! The idea behind bitboards is relatively si
 
 - The chessprogramming.org wiki articles <a href="https://www.chessprogramming.org/Bitboards#General_Bitboard_Techniques"> here </a>
 
-<i> If you'd like to play a chess game against me, contact me! </i>
+<i> If you'd like to play a chess game, contact me! </i>
