@@ -238,6 +238,8 @@ public static long generateKingMoves(int square, long occupied) {
 
 If you got this far, congratulations! The idea behind bitboards is relatively simple, however implementations can certainly be nuanced.
 
+I have quite a few creative ideas that can be implemented for different variants of Chess, so this post was made minimal and concise for viewer understanding.
+
 ### Recommendations
 
 - A video visually explaining bitboards by Holistic3D <a href="https://youtu.be/MzfQ8H16n0M?si=FEtGqBc9qxAELrOG">here</a>
