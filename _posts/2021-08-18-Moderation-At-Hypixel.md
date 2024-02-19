@@ -8,7 +8,7 @@ tags: [Hypixel, Moderator, Staff Member, Minecraft]
 
 I've done a lot of Moderation work, after all, I enjoy solving problems, and offering help. I held many voluntarily positions before I became a staff member at Hypixel in 2017, from a large Factions server SaiCoPvP, to connecting and having liaison with Managers and staff members from other servers like Arkham, CosmicMC, and others.
 
-Eventually, all my prior experience led to me seek an opportunity to help as many people as possible, and where better to do this than the largest Minecraft server, with over 100,000 concurrent players?
+Eventually, all my prior experience led me to seek an opportunity to help as many people as possible, and where better to do this than the largest Minecraft server, with over 100,000 concurrent players?
 
 ## My 4+ Year Timeline
 
