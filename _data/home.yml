@@ -69,7 +69,6 @@ old_project_entries:
   - title: Brain Games
     url: brain-games
     desc: Bringing cognitive games into Minecraft
-    highlight: ACTIVE
 
 footer_entries:
   - title: github
