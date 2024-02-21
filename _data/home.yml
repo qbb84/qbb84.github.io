@@ -32,6 +32,10 @@ project_entries:
     url: graph-algorithm-visualizer
     desc: Provides visualization of graph algorithms, dijkstra's, prims, and more using Swing.
 
+  - title: Safe Haven
+    url: https://github.com/qbb84/Safe-Haven
+    desc: A LibGDX Tile-Based Game with fun retro-style gameplay
+
 old_project_entries:
   - title: Spotify Music Advisor
     url: https://github.com/qbb84/SpotifyMusicAdvisor
