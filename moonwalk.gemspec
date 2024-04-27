@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "moonwalk"
   spec.version       = "0.1.3"
   spec.authors       = ["qbb84"]
-  spec.email         = ["luke.wilder2000@gmail.com"]
+  spec.email         = []
 
   spec.summary       = "A fast and minimalist Jekyll theme with clean dark mode."
   spec.homepage      = "https://github.com/abhinavs/moonwalk"
