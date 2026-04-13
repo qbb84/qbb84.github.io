@@ -13,7 +13,7 @@ project_entries:
     url: https://github.com/qbb84/Hytale-Rhythm
     desc: Hytale plugin using real-time audio analysis (TarsosDSP) to drive beat-synchronised in-world VFX via a spatial Pulse Region event system.
   - title: PrisonPets
-    url: https://github.com/qbb84/PrisonPets
+    url: mcprisonpets-tycoon
     desc: Spigot minigame combining mining, tiered pet rarities (Common–Mythic), player trading, shop systems, and MMO-style raid mechanics driven by pet abilities.
   - title: Three.JS Game Project
     url: threejs-project
