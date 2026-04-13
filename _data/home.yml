@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:  
   - title: Nebula
-    url: https://github.com/qbb84/Nebula
+    url: nebula-minecraft-server
     desc: Minecraft server written in Rust. Full wire-protocol implementation including RSA/AES-CFB8 encryption handshake, Mojang session auth, and a custom packet macro system.
   - title: Hytale-Rhythm
     url: https://github.com/qbb84/Hytale-Rhythm
